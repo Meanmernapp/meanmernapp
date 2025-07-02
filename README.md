@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Experienced Senior Full Stack Developer</h1>
-<h3 align="center">Experienced Senior React Developer with a decade in React, Next.js, TypeScript, and Material UI for dynamic web applications. Proficient in Node.js, Java, Django/Python for back-end, AI integration, and databases like PostgreSQL, MySQL. Specialized in E-commerce, Health & Science, Automobile, and more. Completed 1000+ applications. Available for flexible engagements. Let's discuss collaboration</h3>
+<h3 align="center">Experienced Full Stack Engineer and Backend Developer with 7+ years of success in building and deploying high-performance web applications, scalable APIs, and cloud-native platforms. Specialized in the MERN stack (MongoDB, Express.js, React, Node.js) with strong expertise in developing SSR boilerplates using Next.js and performance-optimized SPAs.
+Proven track record of designing modular, maintainable architectures with clean RESTful APIs and secure authentication workflows. Proficient in full lifecycle development—from architecture to deployment—using tools like Docker, Kubernetes, and CI/CD pipelines for automation and scaling.
+Strong command of asynchronous programming, third-party API integrations, and real-time systems using WebSockets. Passionate about AI/ML integration, well-versed in GenAI tools such as LangChain, vector databases, and prompt engineering for intelligent agent systems. Known for cross-functional collaboration, agile delivery, and thoughtful, business-aligned engineering practices.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meanmernapp&label=Profile%20views&color=0e75b6&style=flat" alt="meanmernapp" /> </p>
 
