@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm Experienced Senior Full Stack Developer</h1>
-<h3 align="center">Experienced Full Stack Engineer and Backend Developer with 7+ years of success in building and deploying high-performance web applications, scalable APIs, and cloud-native platforms. Specialized in the MERN stack (MongoDB, Express.js, React, Node.js) with strong expertise in developing SSR boilerplates using Next.js and performance-optimized SPAs.
-Proven track record of designing modular, maintainable architectures with clean RESTful APIs and secure authentication workflows. Proficient in full lifecycle development—from architecture to deployment—using tools like Docker, Kubernetes, and CI/CD pipelines for automation and scaling.
-Strong command of asynchronous programming, third-party API integrations, and real-time systems using WebSockets. Passionate about AI/ML integration, well-versed in GenAI tools such as LangChain, vector databases, and prompt engineering for intelligent agent systems. Known for cross-functional collaboration, agile delivery, and thoughtful, business-aligned engineering practices.
+<h1 align="center">Hi 👋, I'm an Experienced Senior Full Stack Developer</h1>
+<h3 align="center">
+Seasoned Full Stack Engineer with 7+ years of experience delivering high-performance web applications, scalable APIs, and cloud-native platforms. Specialized in the MERN stack (MongoDB, Express.js, React, Node.js) and expert in building SSR-ready applications with Next.js alongside optimized SPAs.
+<br><br>
+Strong track record of architecting clean, modular systems with secure authentication and RESTful APIs. Skilled across the full development lifecycle—design, development, deployment—leveraging Docker, Kubernetes, and CI/CD pipelines for automation and scale.
+<br><br>
+Expert in asynchronous programming, real-time systems using WebSockets, and third-party API integrations. Passionate about AI/ML—proficient with GenAI tools like LangChain, vector databases, and prompt engineering for building intelligent agents.
+<br><br>
+Collaborative, agile-driven, and focused on thoughtful, business-aligned engineering solutions.
 </h3>
+
 
 ## 👨‍💻 About Me
 
-- 💻 Proficient in building secure back-end architectures using NestJS and Python, with scalable front-end systems in Next.js. Experienced in integrating AI/ML models into full-stack applications for intelligent,       data-driven solutions..
+- 💻 Proficient in building secure back-end architectures using NestJS and Python, with scalable front-end systems in Next.js. Experienced in integrating AI/ML models into full-stack applications for   intelligent,       data-driven solutions..
 - 🎨 Skilled in front-end development with React, Next.js, TypeScript, Tailwind CSS, and server-side rendering (SSR).
 - 🛢️ Experienced with PostgreSQL and MySQL.
 - 🧪 Proficient in Test-Driven Development (TDD).
