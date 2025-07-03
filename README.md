@@ -1,14 +1,25 @@
-<h1 align="center">Hi 👋, I'm a Senior Full Stack MERN Developer</h1>
+# 👋 Hi, I’m Shearz Hassan — Senior Full Stack & AI Voice Agent Developer
 
-<h3 align="center">
-Experienced Full Stack Engineer with 7+ years of expertise in building high-performance, end-to-end web applications using the MERN stack (MongoDB, Express.js, React, Node.js). Specialized in developing scalable RESTful APIs, dynamic SPAs, and SSR applications with Next.js.
-<br><br>
-Proficient in modular architecture design, secure authentication flows, and full lifecycle development—from database modeling to production deployment. Skilled in modern DevOps practices using Docker, Kubernetes, and CI/CD pipelines.
-<br><br>
-Hands-on with real-time systems using WebSockets, third-party API integrations, and async programming patterns. Passionate about integrating AI/ML features, with working knowledge of tools like LangChain, vector databases, and prompt engineering.
-<br><br>
-Detail-oriented, agile-friendly, and committed to delivering clean, maintainable code that aligns with business goals.
-</h3>
+## 🧑‍💻 About Me
+
+I'm a Full Stack Developer with 7+ years of experience delivering scalable, high-performance web applications. I specialize in building modular, production-ready systems using **React**, **Next.js**, **Node.js**, **TypeScript**, and **MongoDB**—with a strong focus on SSR, security, and real-world performance.
+I work across the full development lifecycle, from UI to backend APIs, cloud deployment (Vercel, AWS, GCP), and DevOps practices. My builds are mobile-first, SEO-friendly, and easy for teams to maintain and scale.
+I'm also proficient in **n8n workflow automation**, enabling businesses to streamline tasks, integrate APIs, and build no-code/low-code backend services for marketing, ops, and CRM automation.
+
+## 🤖 AI Voice Agent & Automation Expert
+
+Alongside full stack development, I’ve built 90+ AI-powered voice agents for healthcare, real estate, and service businesses. Using **LLMs**, **LangChain**, **Twilio**, and vector databases, I design conversational agents that handle calls, bookings, and CRM syncing — all fully automated.
+
+## 🚀 What I Deliver
+
+- Scalable full stack apps (React, Next.js, Node.js)
+- REST APIs and real-time WebSocket systems
+- n8n workflow automation and API orchestration
+- Voice agents for customer service & lead generation
+- Cloud-native apps with CI/CD, Docker, and secure auth
+
+I bring clean code, clear communication, and a deep focus on outcomes.  
+Let’s build something powerful — together.
 
 
 
