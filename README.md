@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm an Experienced Senior Full Stack Developer</h1>
+<h1 align="center">Hi 👋, I'm a Senior Full Stack MERN Developer</h1>
+
 <h3 align="center">
-Seasoned Full Stack Engineer with 7+ years of experience delivering high-performance web applications, scalable APIs, and cloud-native platforms. Specialized in the MERN stack (MongoDB, Express.js, React, Node.js) and expert in building SSR-ready applications with Next.js alongside optimized SPAs.
+Experienced Full Stack Engineer with 7+ years of expertise in building high-performance, end-to-end web applications using the MERN stack (MongoDB, Express.js, React, Node.js). Specialized in developing scalable RESTful APIs, dynamic SPAs, and SSR applications with Next.js.
 <br><br>
-Strong track record of architecting clean, modular systems with secure authentication and RESTful APIs. Skilled across the full development lifecycle—design, development, deployment—leveraging Docker, Kubernetes, and CI/CD pipelines for automation and scale.
+Proficient in modular architecture design, secure authentication flows, and full lifecycle development—from database modeling to production deployment. Skilled in modern DevOps practices using Docker, Kubernetes, and CI/CD pipelines.
 <br><br>
-Expert in asynchronous programming, real-time systems using WebSockets, and third-party API integrations. Passionate about AI/ML—proficient with GenAI tools like LangChain, vector databases, and prompt engineering for building intelligent agents.
+Hands-on with real-time systems using WebSockets, third-party API integrations, and async programming patterns. Passionate about integrating AI/ML features, with working knowledge of tools like LangChain, vector databases, and prompt engineering.
 <br><br>
-Collaborative, agile-driven, and focused on thoughtful, business-aligned engineering solutions.
+Detail-oriented, agile-friendly, and committed to delivering clean, maintainable code that aligns with business goals.
 </h3>
+
 
 
 ## 👨‍💻 About Me
