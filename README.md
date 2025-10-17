@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shearz Hassan — Senior Full Stack & AI Voice Agent Developer
+# 👋 Hi, I’m Shearz Hassan  Senior Full Stack & AI Voice Agent Developer
 
 ## 🧑‍💻 About Me
 
